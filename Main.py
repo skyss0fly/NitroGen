@@ -1,5 +1,5 @@
 import time, random, string
-def __init__self():
+def __init__ self():
   print("Hey, Welcome to Sky's Nitro Grenerator:)")
   time.sleep(1)
   print("Before you begin, Do you agree to The Terms of Service shown in this program? Y/N")
