@@ -4,7 +4,7 @@ def __init__self():
   time.sleep(1)
   print("Before you begin, Do you agree to The Terms of Service shown in this program? Y/N")
   eula = input("")
- if eula == "Y":
+if eula == "Y":
   amount = input("say a number bigger then zero and ill generate for you \n>> ")
 
   while amount != 0:
@@ -13,6 +13,6 @@ def __init__self():
   
 
   time.sleep(1)
- if eula == "N":
+if eula == "N":
   print("Exiting Program")
   self.quit()
